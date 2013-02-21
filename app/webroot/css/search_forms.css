@@ -1,0 +1,83 @@
+/* 
+    Document   : forms
+    Created on : Mar 18, 2011, 2:30:48 PM
+    Author	: shanecody
+    Description:
+	   This stylesheet is for forms on rmr.
+	   
+*/
+@import url("forms.css");
+
+
+input[type=submit]{ display: inline; font-size: 100%; width: auto; float:left; color:#000; margin:0px .5em;}
+input[type=text] {  float:left; width:50%; margin:0px; display: inline; }
+input[type=checkbox] { clear: none; float: left; margin: 3px 6px 7px 2px; width: auto; }
+input[type=checkbox]+label { display: inline-block; padding-left:.2em; float: left; margin: 0px 6px 7px 0px; }
+
+#results { padding: 10px 0px; }
+
+#advanced { clear: both; display: block; padding:5px 0 0 0; }
+
+#advanced_options { display:none;}
+
+#sub_genres, #genres { display:none; width:100%;}
+
+#sub_genres .checkbox, #genres .checkbox { margin:0px; padding:0px; float:left; width: 33%; display: inline; clear:none;}
+
+.toggle { clear:both; )
+
+
+/** Forms 
+form { clear: both; margin-right: 20px; padding: 0; width: 95%; }
+fieldset { border: 1px solid #ccc; margin-bottom: 1em; padding: 16px 20px; }
+fieldset legend { background:#fff; color: #e32; font-size: 100%; font-weight: bold; }
+fieldset fieldset { margin-top: 0px; margin-bottom: 20px; padding: 16px 10px; }
+fieldset fieldset legend { font-size: 100%; font-weight: normal; }
+fieldset fieldset div { clear: left; margin: 0 20px; }
+form div { clear: both; margin-bottom: 1em; padding: .5em; vertical-align: text-top; }
+form .input { color: #444; }
+form .required { font-weight: bold; }
+form .required label:after { color: #e32; content: '*'; display:inline; }
+form div.submit { border: 0; clear: both; margin-top: 10px; }
+label { display: block; font-size: 100%; margin-bottom:3px; }
+input[type=text], textarea, input[type=number] { clear: both; font-size: 100%; font-family: "frutiger linotype", "lucida grande", "verdana", sans-serif; padding: .5ex .2em; width:50%; }
+select { clear: both; font-size: 100%; font-family: "frutiger linotype", "lucida grande", "verdana", sans-serif; padding: .5ex .2em; width:51.2%; clear: both; 
+	font-size: 100%; vertical-align: text-bottom; }
+input[type=radio]+label { display: inline-block; padding-left:.5em; float: left; margin: 0px 3px 7px 0px; } 
+
+option { font-size: 100%; }
+
+input[type=radio] { clear: left; float:left; width:auto; margin: 2px 3px 7px 0px; }
+form .submit input[type=submit] { display: inline; font-size: 100%; width: auto; }
+form .submit input[type=submit] { background:#62af56; background: -webkit-gradient(linear, left top, left bottom, from(#a8ea9c), to(#62af56));
+    background-image: -moz-linear-gradient(top, #a8ea9c, #62af56); border-color: #2d6324; color: #000; text-shadow: #8cee7c 0px 1px 0px; padding: .5ex .5em; }
+form .submit input[type=submit]:hover { background:#4ca83d; background: -webkit-gradient(linear, left top, left bottom, from(#85e573), to(#4ca83d));
+    background-image: -moz-linear-gradient(top, #85e573, #4ca83d); }
+.hidden { visibility: hidden; height: 0px; margin: 0px; padding: 0px; }
+.active { visibility: visible; height: auto; }
+.form_subtitle{ clear: both; font-size: 100%; font-family: "frutiger linotype", "lucida grande", "verdana", sans-serif; font-weight: bold; color: #e32; }
+hr { margin-bottom: 5px; }
+
+**/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ **/

@@ -1,0 +1,30 @@
+/** Tables **/
+table { background: #fff; border:0; clear: both; color: #333; margin-bottom: 10px; width: 100%;  border-collapse: collapse;
+border-spacing: 0px; }
+th { border:0; border-bottom:2px solid #555; text-align: left; padding:4px; font-weight:bold; font-size: 90% }
+td { font-size: 90%; }
+.header-row { border:0; border-bottom:2px solid #555; text-align: left; padding:4px; font-weight:bold; font-size: 120%;}
+th a { display: block; padding: 2px 4px; text-decoration: none; }
+th a.asc:after { content: ' ↓'; }
+th a.desc:after { content: ' ↑'; }
+span.up:before { content: '↑'; }
+span.down:before { content: '↓'; }
+/** table tr td { background: #fff; padding: 6px; text-align: left; vertical-align: top; border:0; } **/
+/** table tr:nth-child(2n) td { background: #f5f5f5; } **/
+
+td.actions { text-align: center; white-space: nowrap; }
+table td.actions a { margin: 0px 6px; padding:2px 5px; }
+.cake-sql-log table { background: #f4f4f4; }
+.cake-sql-log td { padding: 4px 8px; text-align: left; font-family: Monaco, Consolas, "Courier New", monospaced; }
+.cake-sql-log caption { color:#fff; }
+
+table tr.red td { background: #c9010f; }
+table tr.altred td { background: #e3504f; }
+table tr.green td { background: #008805; }
+table tr.altgreen td { background: #699b6b; }
+table tr.yellow td { background: #ffff00; }
+table tr.altyellow td { background: #fefe90; }
+.row td { background: #f5f5f5; }
+.altrow td { background: #d8d8d8; }
+
+table tr.highlight td { background: #FF0; }

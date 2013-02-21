@@ -1,0 +1,70 @@
+﻿#charts { margin: 0px; padding: 0px;}
+
+#charts article { 
+	margin: 9px 0 0 0; background: rgb(255,255,255); -moz-border-radius: 7px; border-radius: 7px; float:left; clear:both; }
+	
+#charts h2 { float:right; font-family:'lucida grande',verdana,helvetica,arial,sans-serif; 
+	text-transform:capitolize;
+	font-size: 130%;
+	letter-spacing: .2em; 
+	color: rgba(255,156,0,1);
+	text-align: right;
+	text-shadow:   0px 1px 1px rgba(155,56,0,1);
+	background-image: url('../img/chart-element-bg-top.gif');
+	width: 98.6%; clear:both; -moz-border-radius: 7px 7px 0 0; border-radius: 7px 7px 0 0; padding: 6px 5px 2px 5px;
+	margin: 0px 0 0 -9px;
+	line-height: 3ex;
+}
+
+#charts .chart_bottom { float:right; font-family: berlinsmallcapsregular;
+	text-transform:capitolize;
+	font-size: 130%;
+	letter-spacing: .2em; 
+	color: rgba(255,156,0,1);
+	text-align: right;
+	text-shadow:   0px 1px 1px rgba(155,56,0,1);
+	background-image: url('../img/chart-element-bg-bot.gif');
+	width: 98.6%; clear:both; border-radius: 0 0 7px 7px; padding: 6px 5px 2px 5px;
+	margin: 0px 0 0 -9px;
+	line-height: 3ex;
+}
+
+#charts .chart_bottom a {
+	float: right;
+	color: rgba(255,156,0,1);
+	margin:0px 9px 0 0;
+	text-shadow:   0px 0px 0px rgba(155,56,0,1);
+	text-decoration: underline; font-size: 60%;
+	font-family:'lucida grande',verdana,helvetica,arial,sans-serif; 
+	letter-spacing: .1em; 
+}
+
+/** Tables **/
+table { background: #fff; border:0; clear: both; color: #333; margin-bottom: 10px; width: 728px;  border-collapse: collapse;
+border-spacing: 0px; font-size: 80%; }
+th { border:0; border-bottom:2px solid #555; text-align: left; padding:4px; }
+th a { display: block; padding: 2px 4px; text-decoration: none; }
+th a.asc:after { content: ' ↓'; }
+th a.desc:after { content: ' ↑'; }
+span.up:before { content: '↑'; }
+span.down:before { content: '↓'; }
+table tr td { background: #fff; padding: 6px; text-align: left; vertical-align: top; border:0; }
+table tr:nth-child(2n) td { background: #f5f5f5; }
+
+table .altrow td { background: #f5f5f5; }
+td.actions { text-align: center; white-space: nowrap; }
+table td.actions a { margin: 0px 6px; padding:2px 5px; }
+.cake-sql-log table { background: #f4f4f4; }
+.cake-sql-log td { padding: 4px 8px; text-align: left; font-family: Monaco, Consolas, "Courier New", monospaced; }
+.cake-sql-log caption { color:#fff; }
+
+table tr.red td { background: #c9010f; }
+table tr.altred td { background: #e3504f; }
+table tr.green td { background: #008805; }
+table tr.altgreen td { background: #699b6b; }
+table tr.yellow td { background: #ffff00; }
+table tr.altyellow td { background: #fefe90; }
+table tr.row td { background: #f5f5f5; }
+table tr.altrow td { background: #d8d8d8; }
+
+table tr.highlight td { background: #FF0; }

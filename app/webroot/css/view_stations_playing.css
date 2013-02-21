@@ -1,0 +1,56 @@
+@import url("tables.css");
+
+.tracking-list { padding: 0 0 0 20px; }
+
+#tracking-table { margin: 10px 0 0 0;}
+
+.hover-row td { background-color:#0C9; }
+
+/*
+<div id="tabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
+	<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#band-totals">Band Totals</a></li>
+        <li class="ui-state-default ui-corner-top"><a href="#album-totals">Album Totals</a></li>
+        <li class="ui-state-default ui-corner-top"><a href="#song-totals">Aenean lacinia</a></li>
+    </ul>
+<section id="band-totals" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
+<section id="album-totals" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide">
+<section id="song-totals" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide">
+
+*/
+
+#tabs {
+	background: transparent;
+	border: none;
+	float:left;
+	width:100%;
+}
+
+#tabs .ui-widget-content {
+	padding:0px;
+	margin:0px;
+}
+
+#tabs .ui-widget-header {
+	background: transparent;
+	border: none;
+	border-bottom: 1px solid #c0c0c0;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	font-size: 100%;
+}
+#tabs .ui-state-default {
+	background: transparent;
+	border: none;
+}
+#tabs .ui-state-active {
+	background: transparent url(images/uiTabsArrow.png) no-repeat bottom center;
+	border: none;
+}
+#tabs .ui-state-default a {
+	color: #343F3A;
+}
+#tabs .ui-state-active a {
+	color: #C92B00;
+}

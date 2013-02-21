@@ -1,0 +1,43 @@
+/* Chart Bar Elements */
+#chart-bar { width: 1040px; height: 33px; clear:both; background-color: rgba(52,63,58,1) ;  -moz-border-radius: 7px 7px 0 0; border-radius: 7px 7px 0 0; padding: 6px 5px 2px 5px;
+border-bottom: 3px solid rgba(42,52,48,1);
+}
+
+.social-icon { height:30px; width:30px; float:left; }
+
+	#chart-nav { list-style: none; display: inline; color: #fff; font-size:120%; line-height: 180%; float: left; margin: 0 0 0 9px;  }
+	#chart-nav li.chart-cat { display: inline; margin: -3px 0 0 0px; }
+	
+	ul#chart-nav li.chart-cat { float: left; position: relative; /*width:100px;*/ z-index: 900; }
+
+	ul#chart-nav li.chart-cat a { display: block; }
+
+	#chart-nav li.chart-cat ul.drop-list { position: absolute; width:1044px; top: 18px; left: 0; margin-left:-1px; background: rgba(42,52,48,1); padding: 9px 0 0 0; -moz-border-radius: 0 0 7px 7px; border-radius: 0 0 7px 7px; border-bottom: solid 3px rgba(42,52,48,1); border-left: solid 3px rgba(42,52,48,1); border-right: solid 3px rgba(42,52,48,1);  }
+	
+	 ul.drop-list { position:relative; top:10px; left:10px; }
+	
+	.drop-list-title { color: rgba(255,156,0,1); text-shadow: 1px 1px 3px rgba(255,21,1,1); }
+	.drop-list a { text-decoration: none; font-weight:normal; }	
+
+	#chart-nav li.chart-cat>ul.drop-list { top: auto; left: auto; }
+
+	#chart-nav li.chart-cat { -moz-border-radius: 7px 7px 0 0; border-radius: 7px 7px 0 0; padding: 0 24px 0 24px; border-top: 4px rgba(0,0,0,0) solid; }
+	
+	#chart-nav li.chart-cat:hover { display: block; background: rgba(42,52,48,1); z-index:1000; border-top: 4px rgba(0,0,0,0) solid; }
+	
+	/*#chart-nav li.chart-cat:hover ul.drop-list, #chart-nav li.chart-cat.over ul.drop-list{ display: block; background: rgba(120,120,120,1); } */
+	
+	
+	.genre-list { list-style: none; display: block; font-size: 75%; line-height:160%;}
+	.genre-list-container { background: #fff; padding:9px; display: block; -moz-border-radius: 7px; border-radius: 7px; height:195px;}
+	.chart-nav-box-genres { width: 261px; float:left; margin: -9px 0 9px 9px; }
+	.chart-nav-box-sub-genres { width: 755px;  float:left; margin: -9px 0 0 9px; }
+	.chart-nav-box-states { width: 955px;  float:left; margin: 0px 0 0 9px; }
+#nav-album-down{ display: none; }
+#nav-song-down{ display: none; }
+	#chart-nav li.chart-cat ul.song-charts { margin: 0 0 0 -306px; }
+	#chart-nav li.chart-cat ul.album-charts { margin: 0 0 0 -128px; }
+	#chart-nav li.chart-cat ul.state-charts { margin: 0 0 0 -473px; }*/
+
+
+	

@@ -1,0 +1,7 @@
+@import url("tables.css");
+
+.tracking-list { padding: 0 0 0 20px; }
+
+#tracking-table { margin: 10px 0 0 0;}
+
+.hover-row td { background-color:#0C9; }

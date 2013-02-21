@@ -1,0 +1,1 @@
+<p>Your account could not be verified</p>

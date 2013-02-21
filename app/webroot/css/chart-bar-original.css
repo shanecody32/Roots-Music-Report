@@ -1,0 +1,46 @@
+/* Chart Bar Elements */
+#chart-bar { width: 1040px; height: 33px; clear:both; background-color: rgba(64,54,46,1) ;  -moz-border-radius: 7px 7px 0 0; border-radius: 7px 7px 0 0; padding: 6px 5px 2px 5px;
+box-shadow: 
+  0 0px 0px #fff, /*bottom external highlight*/
+  0 0px 0px #666, /*top external shadow*/ 
+  inset -1px -2px 3px 3px rgba(57,51,41,1), /*bottom internal shadow*/ 
+  inset 1px 2px 3px 3px rgba(99,91,82,1); /*top internal highlight*/
+}
+
+#nav-album-down{ display: none;}
+	.social-icon { height:30px; width:30px; float:left; }
+	#chart-nav { list-style: none; display: inline; color: #fff; font-size:120%; line-height: 180%; float: left; margin: 0 0 0 9px;  }
+	#chart-nav li.chart-cat { display: inline; margin: 0 0 0 0px; }
+	
+	ul#chart-nav li.chart-cat { float: left; position: relative; /*width:100px;*/ z-index: 1000; }
+
+	ul#chart-nav li.chart-cat a { display: block; }
+
+	#chart-nav li.chart-cat ul.drop-list {	display: none; position: absolute; width:974px; top: 18px; left: 0; margin-left:-1px; background: rgba(57,51,41,1); padding: 9px 0 0 0; -moz-border-radius: 0 0 7px 7px; border-radius: 0 0 7px 7px; }
+	
+	ul.drop-list { position:relative; top:10px; left:10px; }
+	
+	.drop-list-title { color:  rgba(255,156,0,1); text-shadow:   0px 1px 1px rgba(155,56,0,1); }
+	.drop-list a { text-decoration: none; }
+	
+
+	#chart-nav li.chart-cat>ul.drop-list { top: auto; left: auto; }
+
+	#chart-nav li.chart-cat { -moz-border-radius: 7px 7px 0 0; border-radius: 7px 7px 0 0; padding: 0 24px 0 24px; }
+	
+	#chart-nav li.chart-cat:hover { display: block; background: rgba(120,120,120,1); }
+	
+	#chart-nav li.chart-cat:hover ul.drop-list, #chart-nav li.chart-cat.over ul.drop-list{ display: block; background: rgba(120,120,120,1); }
+	
+	
+	.genre-list { list-style: none; display: block; font-size: 75%; line-height:160%;}
+	.genre-list-container { background: #fff; padding:9px; display: block; -moz-border-radius: 7px; border-radius: 7px; height:215px;}
+	.chart-nav-box-genres { width: 261px; float:left; margin: -9px 0 9px 9px; }
+	.chart-nav-box-sub-genres { width: 685px;  float:left; margin: -9px 0 0 9px; }
+	.chart-nav-box-states { width: 955px;  float:left; margin: 0px 0 0 9px; }
+	#chart-nav li.chart-cat:hover ul.song-charts { margin: 0 0 0 -306px; }
+	#chart-nav li.chart-cat:hover ul.album-charts { margin: 0 0 0 -128px; }
+	#chart-nav li.chart-cat:hover ul.state-charts { margin: 0 0 0 -473px; }
+
+#nav ul li ul { display:none; visibility: none; }
+	

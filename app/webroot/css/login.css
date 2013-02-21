@@ -1,0 +1,104 @@
+﻿/* 
+    Document   : forms
+    Created on : Mar 18, 2011, 2:30:48 PM
+    Author	: shanecody
+    Description:
+	   This stylesheet is for forms on rmr.
+*/
+
+/** Forms **/
+form.login { clear: none; display:inline; margin: 0px 50px 0 0; padding: 0; width: 170px;  }
+form.login div { clear: none; display:inline; margin: 0em 0 0 5px; padding: 0em; vertical-align: text-top; float:left; }
+form.login .input { color: #444; }
+form.login .required { font-weight: bold; }
+form.login .required label:after { color: #e32; content: ''; display:inline; }
+form.login div.submit { border: 0; clear: none; margin-top: 0px; display:inline; }
+form.login label { display:inline; font-size: 60%; margin:0px; font-weight: normal; float:left; padding: .25ex 0em 0 0;  }
+form.login input[type=text], form.login input[type=password] { 
+	clear: none; 
+	font-size: 60%; 
+	border: none;
+	font-family: "frutiger linotype", "lucida grande", "verdana", sans-serif; 
+	padding: .25ex .1em; 
+	border-radius: 0px 0px 0px 0px; 
+	width:100px;
+	background: rgba(200,200,200,.8);
+	margin: 0px 0 0 0px;
+	float:left;
+}
+form.login input[type=checkbox]+label { display: inline-block; padding-left:0em; float: left; margin: 0px 0px 0px 0px; }
+form.login option { font-size: 60%; }
+form.login input[type=checkbox] { clear: left; float: left; margin: 3px 6px 7px 2px; width: auto; }
+form.login input[type=submit] { 
+	display: inline; 
+	font-size: 60%; 
+	width: auto; 
+	font-weight: normal; 
+	letter-spacing: .2em; 
+	border:none;
+	border-color: rgba(206,220,231,1); 
+	color: #C92B00;
+	text-shadow: #8cee7c 0px 0px 0px; 
+	padding: .2ex .1em;
+	margin: 0px 0 0 0px;
+	background: #fff; /* FF3.6+ */
+	border-radius: 0px; 
+	float:left;
+	cursor:pointer;
+}
+form.login input[type=submit]:hover { 
+	background: #343F3A;
+	color: #fff;
+}
+
+/* Form errors */
+form .error {
+	background: #FFDACC;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+form .error-message {
+	-moz-border-radius: none;
+	-webkit-border-radius: none;
+	border-radius: none;
+	border: none;
+	background: none;
+	margin: 0;
+	padding-left: 4px;
+	padding-right: 0;
+}
+form .error,
+form .error-message {
+	color: #9E2424;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-ms-box-shadow: none;
+	-o-box-shadow: none;
+	box-shadow: none;
+	text-shadow: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ **/

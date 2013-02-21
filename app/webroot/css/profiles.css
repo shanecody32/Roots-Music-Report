@@ -1,0 +1,19 @@
+#profile { width:600px; }
+
+#images { width: 150px; max-height: 150px; float: left; display: block; }
+    #images img { max-width: 150px; max-height: 150px; }
+
+#radioname {}
+
+#radioinfo { float: left; width:350px; padding: 0 0 0 10px; display: block; }
+
+#radiophone { float: left; width:350px; margin: 10px 0 0 0; padding: 0 0 0 10px; display: block; }
+    #radiophone td { margin: 2px 0 0 0; padding: 3px 0 0 20px; }
+
+#radioaddress { float: left; width:350px; margin: 10px 0 0 0; padding: 0 0 0 10px; display: block; }
+    #radioaddress address { margin: 10px 0 0 20px; }
+
+#radiolinks { float: left; width:450px; margin: 10px 0 0 0; padding: 0 0 0 10px; display: block; }
+    #radiolinks td { margin: 2px 0 0 0; padding: 3px 0 0 20px; }
+
+#radiostaff { float: left; width:350px; margin: 10px 0 0 0; padding: 0 0 0 10px; display: block; }

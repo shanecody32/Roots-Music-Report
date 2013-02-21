@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="album.php" server="crookedcomma.com/public_html/rmr_test/app/" local="129392414517623490" remote="129398728200000000" Dst="-1" />
+<file name="band.php" server="crookedcomma.com/public_html/rmr_test/app/" local="129392414512033170" remote="129398728200000000" Dst="-1" />
+<file name="city.php" server="crookedcomma.com/public_html/rmr_test/app/" local="129392414494362159" remote="129398728200000000" Dst="-1" />
+<file name="country.php" server="crookedcomma.com/public_html/rmr_test/app/" local="129392414491732009" remote="129398728200000000" Dst="-1" />
+<file name="genre.php" server="crookedcomma.com/public_html/rmr_test/app/" local="129392414489371874" remote="129398728200000000" Dst="-1" />
+<file name="label.php" server="crookedcomma.com/public_html/rmr_test/app/" local="129392414486611716" remote="129398728200000000" Dst="-1" />
+<file name="song.php" server="crookedcomma.com/public_html/rmr_test/app/" local="129392414452179747" remote="129398728800000000" Dst="-1" />
+<file name="state.php" server="crookedcomma.com/public_html/rmr_test/app/" local="129392414445519366" remote="129398728800000000" Dst="-1" />
+<file name="RadioStaffPlaylist.php" server="crookedcomma.com/public_html/rmr_test/app/" local="129996450231621923" remote="129996486000000000" Dst="1" />
+<file name="ChartFunction.php" server="crookedcomma.com/public_html/rmr_test/app/" local="129997210686255274" remote="129997246200000000" Dst="1" />
+<file name="RadioStaffPlaylistArchive.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="129999775000539508" remote="129999846600000000" Dst="1" />
+<file name="RadioStaffMember.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130020732914232004" remote="130020804600000000" Dst="1" />
+<file name="RadioStationPlaylist.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="129997374600000000" remote="129997374600000000" Dst="1" />
+<file name="RadioStationPlaylistArchive.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130000909599121283" remote="130000981200000000" Dst="1" />
+<file name="RadioStation.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130020725209918557" remote="130020796800000000" Dst="1" />
+<file name="Album.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130000751499235047" remote="130000823400000000" Dst="1" />
+<file name="Band.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130011893602956516" remote="130011965400000000" Dst="1" />
+<file name="RadioStaffPlaylist.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130003238746380048" remote="130003310400000000" Dst="1" />
+<file name="AppModel.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130003321281317603" remote="130003393200000000" Dst="1" />
+<file name="User.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130021598875872978" remote="130021670400000000" Dst="1" />
+<file name="Review.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130011875815925498" remote="130011947400000000" Dst="1" />
+<file name="SubGenre.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130002589314118893" remote="130002661200000000" Dst="1" />
+<file name="ChartFunction.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130003210468558277" remote="130003282200000000" Dst="1" />
+<file name="AutoComplete.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130003210844444676" remote="130003282800000000" Dst="1" />
+<file name="AlbumImage.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130005863672821875" remote="130005935400000000" Dst="1" />
+<file name="RadioStationImage.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="129997374600000000" remote="129997374600000000" Dst="1" />
+<file name="RadioStaffImage.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="129997374600000000" remote="129997374600000000" Dst="1" />
+<file name="Article.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130016331797679762" remote="130016403600000000" Dst="1" />
+<file name="BandLink.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130011893774006650" remote="130011965400000000" Dst="1" />
+<file name="Genre.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="129997374600000000" remote="129997374600000000" Dst="1" />
+<file name="Catagory.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130012003105043862" remote="130012074600000000" Dst="1" />
+<file name="Tag.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130016332010929406" remote="130016403600000000" Dst="1" />
+<file name="Song.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="129997374600000000" remote="129997374600000000" Dst="1" />
+<file name="Category.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130012042296456935" remote="130012114200000000" Dst="1" />
+<file name="RadioStationSubGenre.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="1472934501311639824" remote="129997374600000000" Dst="1" />
+<file name="AlbumTrack.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130012163590457649" remote="130012235400000000" Dst="1" />
+<file name="CityPostalCode.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="129997374600000000" remote="129997374600000000" Dst="1" />
+<file name="ArticleTag.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130014598854823331" remote="130014670800000000" Dst="1" />
+<file name="ArticlesTag.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="130012215600000000" remote="130012215600000000" Dst="1" />
+<file name="State.php" server="rootsmusicreport.com/public_html/rmr_test/app/" local="129997374600000000" remote="129997374600000000" Dst="1" />
+</dwsync>

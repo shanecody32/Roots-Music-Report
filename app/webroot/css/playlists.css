@@ -1,0 +1,15 @@
+@import url("tables.css");
+
+#title {}
+
+#radioname { margin: 0 0 0 10px; }
+
+#images { float:left; max-width: 100px; padding: 0 10px 0 0; }
+
+.function {font-weight: normal; font-size: 90%; float: right; }
+
+input.readonly { border: none; color: #444; }
+
+ul { list-style: none; }
+ul li ul { margin-left:10px; }
+hr { clear: both;}

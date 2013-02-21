@@ -1,0 +1,12 @@
+#tag {}
+
+#tag article {
+	border-bottom: 2px solid #C92B00;
+	padding: 10px;	
+}
+
+#tags { margin: 10px 0 10px 0; font-size: 80%; }
+#tags a { font-weight:normal; }
+#tags h5 { color: #C92B00; }
+#tags ul { list-style: none; }
+#tags ul li { display:inline-block; }
